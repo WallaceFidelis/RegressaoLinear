@@ -48,7 +48,7 @@ public class RegressaoLinear
     {
         this.ValoresX = X;
         this.ValoresY = Y;
-        CalculaMedia();
+        CalcularMedia();
         CalcularDesvioPadrao();
         CalcularXY();
         CalcularCCL();
