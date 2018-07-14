@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegressãoLinear", "RegressãoLinear\RegressãoLinear.csproj", "{E2517071-FE39-448E-8111-532F02756CD5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegressaoLinear", "RegressãoLinear\RegressaoLinear.csproj", "{E2517071-FE39-448E-8111-532F02756CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilizacaoRegressaoLinear", "ConsoleApp1\UtilizacaoRegressaoLinear.csproj", "{A63FF3CC-3169-4E99-8E1D-9D849B5EA8F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E2517071-FE39-448E-8111-532F02756CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2517071-FE39-448E-8111-532F02756CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2517071-FE39-448E-8111-532F02756CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A63FF3CC-3169-4E99-8E1D-9D849B5EA8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63FF3CC-3169-4E99-8E1D-9D849B5EA8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63FF3CC-3169-4E99-8E1D-9D849B5EA8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63FF3CC-3169-4E99-8E1D-9D849B5EA8F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
